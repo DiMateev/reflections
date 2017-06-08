@@ -1,0 +1,8 @@
+New hidden directory is made where commits can be saved and tracked.
+
+To start tracking versions of chosen files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It's imagenary place between the repository and working directory. With it we can group connected files so that they
+are commited togather.
