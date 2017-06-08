@@ -1,8 +1,20 @@
 New hidden directory is made where commits can be saved and tracked.
 
-To start tracking versions of chosen files.
+    To start tracking versions of chosen files.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-It's imagenary place between the repository and working directory. With it we can group connected files so that they
-are commited togather.
+    It's imagenary place between the repository and working directory. With it we can group connected files so that they
+    are commited togather.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+    With command "git diff" al changes to files in working directory are shown. Then you add them to staging are depending on their interconnection.
+    
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+    Situations where different path is taken from the main course. I can help keep a stable version while experimenting with new features.
+    
+How do the diagrams help you visualize the branch structure?
+
+    Makes it clear where what changes are made.
